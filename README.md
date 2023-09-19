@@ -1,7 +1,3 @@
-Certainly! Here's the modified README file for your "Yes Bank Stock Closing Price Prediction" project with the addition of the dataset section:
-
----
-
 # Yes Bank Stock Closing Price Prediction
 
 ## Table of Contents
