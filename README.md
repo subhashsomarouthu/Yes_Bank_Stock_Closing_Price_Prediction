@@ -1,4 +1,4 @@
-## AlmaBetter Verfied Project - [AlmaBetter School](https://www.almabetter.com/)
+
 
 
 # Yes Bank Stock Closing Price Prediction
